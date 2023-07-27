@@ -1,0 +1,11 @@
+{
+    "FLASK_APP": "app.py",
+    "FLASK_DEBUG": "True",
+    "SECRET_KEY": "tu_clave_secreta",
+    "DB": {
+        "SQLALCHEMY_DATABASE_URI": "mysql+pymysql://uslexoltmzhjuwju:JW0KQ10SJxSqmfjXIN17@54.39.75.7:3306/bby4r4fgu93of1hen4wj"
+    },
+    "SALT": "$2b$12$DmpeAC/LMmc8UVA2ty5Uou",
+    "KEY_API_GOOGLE_MAPS": "AIzaSyDrJ6jyya3VFCzv1agtIVixQvDYEkjmljA"
+}
+  
